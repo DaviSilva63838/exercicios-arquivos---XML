@@ -1,4 +1,3 @@
-// Aluno.java
 public class Aluno {
     private String nome;
     private double nota;
