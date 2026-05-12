@@ -14,7 +14,6 @@ public class App {
 
     private static final String ARQUIVO = "alunos.xml";
 
-    // Representa um aluno
     static class Aluno {
         private String nome;
         private double nota;
