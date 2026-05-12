@@ -1,0 +1,14 @@
+<alunos>
+    <aluno>
+        <nome>Davi</nome>
+        <nota>9</nota>
+    </aluno>
+    <aluno>
+        <nome>Vinicius</nome>
+        <nota>8</nota>
+    </aluno>
+    <aluno>
+        <nome>Maurício</nome>
+        <nota>7</nota>
+    </aluno>
+</alunos>

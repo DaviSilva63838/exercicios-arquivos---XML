@@ -1,0 +1,17 @@
+<catalogo>
+    <livro>
+        <titulo>Java Básico</titulo>
+        <autor>Maria Silva</autor>
+        <preco>50.0</preco>
+    </livro>
+    <livro>
+        <titulo>Estruturas de Dados</titulo>
+        <autor>João Souza</autor>
+        <preco>75.5</preco>
+    </livro>
+    <livro>
+        <titulo>Programação Avançada</titulo>
+        <autor>Ana Pereira</autor>
+        <preco>120.0</preco>
+    </livro>
+</catalogo>
